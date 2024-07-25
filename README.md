@@ -33,6 +33,7 @@ Hi there! I'm Acha. I ...
   <img height="30" src="https://img.shields.io/badge/sql-003B57?style=flat-square&logo=sql&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/google--looker--studio-03A9F4?style=flat-square&logo=looker&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </div>
 
