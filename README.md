@@ -1,4 +1,5 @@
 # Hi there 👋
+I'm new here! I know my repo is quite empty, but more to come!
 
 # Thantorn Thammachai (Acha)
 Hi there! I'm Acha. I ...
