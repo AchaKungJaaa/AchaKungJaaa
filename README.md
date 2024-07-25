@@ -22,6 +22,7 @@ Hi there! I'm Acha. I ...
   <img height="30" src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/keras-D00000?style=flat-square&logo=keras&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img height="30" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/hugging--face-1572B6?style=flat-square&logo=hugging-face&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
