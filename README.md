@@ -6,7 +6,7 @@ Hi there! I'm Acha. I ...
 - 🎓 Graduated from Chulalongkorn University, with a Bachelor of Electrical Engineering (Majoring in Control and Communication Division)
 - 🤖 Transitioned myself into this interesting field of Machine Learning and Deep Learning !
 - 👨‍💼 Used to work as a Data Scientist for 7 months before participating in "Super AI Engineer Development Program Season 4"
-- 👨‍💼 Will be working as an NLP engineer intern at NECTEC for 2 months (Aug and Sep 2024). My main focus will be Application of Hyperdimensional computing (HDC) in Deep learning.
+- 👨‍💼 Will be working as an NLP engineer intern at The National Electronics and Computer Technology Center (NECTEC) for 2 months (Aug and Sep 2024). My main focus will be Application of Hyperdimensional computing (HDC) in Deep learning.
 
 # Contact Info:
 📧 Email: thantornthammachai@gmail.com \
