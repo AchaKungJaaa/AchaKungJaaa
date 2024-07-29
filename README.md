@@ -30,7 +30,6 @@ Hi there! I'm Acha. I ...
   <img height="30" src="https://img.shields.io/badge/matplotlib-150458?style=flat-square&logo=matplotlib&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/seaborn-150458?style=flat-square&logo=seaborn&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
-  <img height="30" src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/sql-003B57?style=flat-square&logo=sql&logoColor=white">
   <img height="30" src="https://img.shields.io/badge/google--looker--studio-03A9F4?style=flat-square&logo=looker&logoColor=white">
